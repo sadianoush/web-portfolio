@@ -1,0 +1,19 @@
+body{
+    
+}font-family: 'Lato', sans-serif;
+font-family: 'Lobster', cursive;
+h1{
+    font-size: 50px;
+}
+.name-highlight{
+    color: rgba(130, 53, 255, 0.849);
+}
+.half-width{
+    width: 40%;
+    float:left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
